@@ -7,11 +7,12 @@ edition = "2021"
 
 [dependencies]
 regex = "1.4"
+itertools = "*"
 
 
 [[bin]]
-name="day04_01"
-path="bin/day04/solution_1.rs"
+name="day07_01"
+path="bin/day07/solution_1.rs"
 
 [[bin]]
 name="day04_02"
