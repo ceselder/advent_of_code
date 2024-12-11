@@ -11,9 +11,9 @@ itertools = "*"
 
 
 [[bin]]
-name="day10_01"
-path="bin/day10/solution_1.rs"
+name="day11_01"
+path="bin/day11/solution_1.rs"
 
 [[bin]]
-name="day10_02"
-path="bin/day10/solution_2.rs"
+name="day11_02"
+path="bin/day11/solution_2.rs"
