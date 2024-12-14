@@ -8,12 +8,13 @@ edition = "2021"
 [dependencies]
 regex = "1.4"
 itertools = "*"
+nalgebra="*"
 
 
 [[bin]]
-name="day11_01"
-path="bin/day11/solution_1.rs"
+name="day14_01"
+path="bin/day14/solution_1.rs"
 
 [[bin]]
-name="day11_02"
-path="bin/day11/solution_2.rs"
+name="day14_02"
+path="bin/day14/solution_2.rs"
